@@ -1,0 +1,10 @@
+h1 {
+    display: flex;
+    justify-content: flex-start
+  }
+
+
+  head {
+    background-color: rgb(26, 7, 194);
+  }
+  
